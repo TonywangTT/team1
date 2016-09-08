@@ -1,4 +1,4 @@
 ##Names of teammates
-1. Adam
+1. Adam Rosenstein
 2. Xin Bian
-3. 
+3. Tonghui Wang
